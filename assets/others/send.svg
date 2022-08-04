@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="chat-send" transform="translate(-358 -842)">
+    <circle id="Ellipse_44" data-name="Ellipse 44" cx="20" cy="20" r="20" transform="translate(358 842)" fill="#ffa900"/>
+    <path id="paper-plane" d="M18.64,2.634.984,8.856c-.284.1-.347.345-.01.479l3.8,1.521,2.25.9L18,3.691c.148-.108.318.1.211.211l-7.871,8.513v0l-.452.5.6.322,4.982,2.682a.51.51,0,0,0,.752-.334L19.131,3.065c.079-.343-.148-.552-.491-.431ZM7,17.162c0,.246.139.315.331.141.251-.229,2.85-2.561,2.85-2.561L7,13.1v4.064Z" transform="translate(368.254 852.401)" fill="#fff"/>
+  </g>
+</svg>

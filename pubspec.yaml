@@ -1,0 +1,45 @@
+name: mappy
+description: Sample application used to test and develop map functionalities via Mapbox
+
+publish_to: "none"
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Architecture
+  flutter_bloc: ^6.0.6
+
+  # Location
+  mapbox_gl: ^0.8.0
+  location: ^3.0.2
+  google_fonts: ^1.0.0
+
+  # HTTP
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.8.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/mappy_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config.json
+    - assets/mappy_icon.png
+    - assets/place_24px.png
+    - assets/loader.gif
+    - assets/sc.gif
+    - assets/basic/splash.png
+    - assets/basic/pp.jpeg
+    - assets/basic/pk.jpeg

@@ -1,0 +1,95 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  // static const Color app_background = const Color(0xFF071d1c);
+  static const Color text1_color = const Color(0xFF000000);
+  static const Color text2_color = const Color(0xFF2F55E1);
+  static const Color text3_color = const Color(0xFF1350FF);
+  static const Color black_color = const Color(0xFF000000);
+  static const Color line_color = const Color(0xFF59aeff);
+  static const Color button1_color = const Color(0xFFFFC123);
+  static const Color button2_color = const Color(0xFF1350FF);
+  // static const Color background_color = const Color(0xFFdbdbdb);
+  // static const Color label_color = const Color(0xFF3b554d);
+  static const Color appBar_color = const Color(0xFF094633);
+  static const Color border_color = const Color(0xFFdbdbdb);
+  static const Color header_color = const Color(0xFF153ca3);
+  static const Color bottom_color = const Color(0xFF001811);
+  static const Color bottom_icon_color = const Color(0xFF0eb45d);
+  static const Color wallet_header_color = const Color(0xFF07533c);
+  static const Color wallet_text1_color = const Color(0xFF3be1ac);
+  static const Color wallet_text2_color = const Color(0xFF42ff8d);
+  static const Color list_color = const Color(0xFF094633);
+  static const Color list_text_color = const Color(0xFF44ff90);
+  static const Color list_button1_color = const Color(0xFF22ac84);
+  static const Color user_back_color = const Color(0xFFA5AFAE);
+  static const Color dialog_text_color = const Color(0xFF6b6b6d);
+  static const Color dialog_border_color = const Color(0xFFd5d5d5);
+  static const Color qr_border_color = const Color(0xFF177659);
+  static const Color note_color = const Color(0xFFFF5151);
+  static const Color blue = const Color.fromRGBO(10, 103, 243, 1);
+  static const Color green = const Color.fromRGBO(18, 202, 148, 1);
+  static const Color lightblue = const Color.fromRGBO(243, 246, 255, 1);
+  static const Color greenbutton = const Color(0xFFFFA900);
+  static const Color lightgrey = const Color.fromRGBO(127, 126, 169, 1);
+  static const Color label_color = const Color.fromRGBO(127, 126, 169, 1);
+  static const Color darkgrey = const Color.fromRGBO(44, 53, 80, 1);
+  static const Color text = const Color.fromRGBO(213, 215, 220, 1);
+  static const Color line = const Color.fromRGBO(223, 232, 240, 1);
+  static const Color white_color = const Color.fromRGBO(255, 255, 255, 1);
+  static const Color background_color = const Color.fromRGBO(10, 103, 243, 11);
+  static const Color app_background = const Color.fromRGBO(233, 236, 254, 1);
+  static const Color blue2 = const Color.fromRGBO(77, 144, 246, 1);
+  static const Color bl = const Color.fromRGBO(35, 55, 98, 1);
+  static const Color d1 = const Color.fromRGBO(119, 164, 229, 1);
+  static const Color d2 = const Color.fromRGBO(35, 55, 94, 1);
+  static const Color d3 = const Color.fromRGBO(19, 33, 62, 1);
+  static const Color d4 = const Color.fromRGBO(12, 45, 12, 1);
+
+
+  static const Color fillColor = const Color(0xFFFFFFFF);
+  static const Color hintColor = const Color(0xFFa9a9a9);
+  static const Color inputTextColor = const Color(0xFF001945);
+  static const Color disableTextColor = const Color(0xFF283a5a);
+  static const Color inputButtonColor = const Color(0xFFFFA900);
+  static const Color buttonColor = const Color(0xFF1E212D);
+  static const Color basic_txt_Color = const Color(0xFF595E72);
+  static const Color textHighlightColor = const Color(0xFFFAF649);
+  static const Color darkButtonColor = const Color(0xFF1c0533);
+  static const Color lightButtonColor = const Color(0xFF101e37);
+  static const Color backgroundColor = const Color(0xFF091833);
+  static const Color backgroundColorSec = const Color(0xFF001945);
+  static const Color headerColor = const Color(0xFF470A93);
+  static const Color listsecColor = const Color(0xFF2E1A55);
+  static const Color tabBackColor = const Color(0xFF2B0061);
+  static const Color tabSelectColor = const Color(0xFFFFFFFF);
+  static const Color tabUnSelectColor = const Color(0xFF244887);
+  static const Color drowdownColor = const Color(0xFF2E1A55);
+  static const Color tradehintColor = const Color(0xFFFFFF48);
+  static const Color tradeBackColor = const Color(0xFF200e42);
+  static const Color dashtextColor = const Color(0xFF0C0E1E);
+  static const Color dashtexColor = const Color(0xFFfe3535);
+  static const Color whiteColor = const Color(0xFF0C0E1E);
+  static const Color sidemenuBackColor = const Color(0xFF2a0e5e);
+  static const Color appBarColor = const Color(0xFFFFFFFF);
+  static const Color appSecondary = const Color(0xFF0C0E1E);
+  static const Color increasedCardColor = const Color(0xFF092659);
+  static const Color decreasedCardColor = const Color(0xFF0f264f);
+  static const Color bottom_bg_Color = const Color(0xFF07152F);
+  static const Color bottom_txt_Color = const Color(0xFF0C0E1E);
+  static const Color bottom_border_Color = const Color(0xFF193668);
+  static const Color security_or_Color = const Color(0xFF0e1d3a);
+  static const Color dropdownColor = const Color(0xFF0e1f3a);
+  static const Color tabBarColor = const Color(0xFF092659);
+  static const Color bankDetailsColor = const Color(0xFF456dbc);
+  static const Color tradeLineColor = const Color(0xFF172541);
+
+  static const Color p2pMainTextColor = const Color(0xFF0C0E1E);
+  static const Color p2pSubTextColor = const Color(0xFF3a5685);
+  static const Color p2pHighColor = const Color(0xFF365685);
+  static const Color p2pPlaceHolder = const Color(0xFF365180);
+  //static const Color p2pLineColor = const Color(0xFF1C2E4D);
+  static const Color p2pLineColor = const Color(0xFF1D3D76);
+}
+
+

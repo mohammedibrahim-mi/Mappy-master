@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="57" viewBox="0 0 51 57">
+  <g id="email-authentication" transform="translate(-40 -328)">
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="51" height="57" rx="20" transform="translate(40 328)" fill="#f5f5f5"/>
+    <g id="email-mail-svgrepo-com" transform="translate(49 314.584)">
+      <g id="Group_802" data-name="Group 802" transform="translate(0 37.116)">
+        <path id="Path_997" data-name="Path 997" d="M13.261,189.947,0,182.112v18.966L16.042,191.6Z" transform="translate(0 -182.112)" fill="#2b478b"/>
+        <path id="Path_998" data-name="Path 998" d="M256.264,191.667l16.028,9.471V182.176l-2.887,1.706v0l-.008,0v.014Z" transform="translate(-240.195 -182.172)" fill="#2b478b"/>
+      </g>
+      <path id="Path_999" data-name="Path 999" d="M16.069,333.4l-.005,0-.021-.012L0,342.872H32.1Z" transform="translate(0 -286.79)" fill="#77a4e5"/>
+      <path id="Path_1000" data-name="Path 1000" d="M59.429,46.6l.021.012.005,0L72.587,38.84V27.416l-26.3.009V38.8l10.359,6.148,2.781,1.65ZM58.222,31.924H70.056v.642H58.222Zm0,1.284H70.056v.642H58.222Zm0,1.284H70.056v.642H58.222Zm-.339,4.713,1.555,1.608,1.555-1.608.706.7-2.26,2.339L57.178,39.9Zm-1.5-2.767h-7.4V30.222h7.4v6.216Z" transform="translate(-43.386)" fill="#fff"/>
+      <g id="Group_803" data-name="Group 803" transform="translate(0 34.928)">
+        <path id="Path_1001" data-name="Path 1001" d="M2.895,147.208,0,149.4l2.895,1.71Z" transform="translate(0 -147.208)" fill="#07122d"/>
+        <path id="Path_1002" data-name="Path 1002" d="M468.719,149.4l.008,0-2.895-2.189v3.9Z" transform="translate(-436.622 -147.208)" fill="#07122d"/>
+      </g>
+      <path id="Path_1003" data-name="Path 1003" d="M224.473,216.123l-.706-.7-1.555,1.608-1.555-1.608-.706.7,2.26,2.338Z" transform="translate(-206.16 -176.219)" fill="#c9c9c9"/>
+      <path id="Path_1004" data-name="Path 1004" d="M89.272,78.384h7.4V72.168h-7.4Zm5.916-2v1.257H93.022l1.057-2.292S95.188,75.364,95.188,76.385Zm-2.218.651-.761-1.686h1.523Zm0-4.125A1.094,1.094,0,1,1,91.876,74,1.094,1.094,0,0,1,92.97,72.91Zm-2.218,3.475c0-1.02,1.109-1.035,1.109-1.035l1.057,2.292H90.752S90.752,77.405,90.752,76.385Z" transform="translate(-83.674 -41.946)" fill="#ffa900"/>
+      <g id="Group_804" data-name="Group 804" transform="translate(7.077 30.964)">
+        <circle id="Ellipse_34" data-name="Ellipse 34" cx="1.094" cy="1.094" r="1.094" transform="translate(1.124)" fill="#fff"/>
+        <path id="Path_1005" data-name="Path 1005" d="M113.973,122.912s-1.109.015-1.109,1.035V125.2h2.166Z" transform="translate(-112.864 -120.472)" fill="#fff"/>
+        <path id="Path_1006" data-name="Path 1006" d="M151.23,125.2v-1.257c0-1.02-1.109-1.035-1.109-1.035l-1.057,2.292Z" transform="translate(-146.794 -120.472)" fill="#fff"/>
+        <path id="Path_1007" data-name="Path 1007" d="M136.857,122.912H136.1l.761,1.686.761-1.686Z" transform="translate(-134.639 -120.472)" fill="#fff"/>
+      </g>
+      <g id="Group_805" data-name="Group 805" transform="translate(14.837 31.924)">
+        <rect id="Rectangle_82" data-name="Rectangle 82" width="11.833" height="0.642" fill="#c9c9c9"/>
+        <rect id="Rectangle_83" data-name="Rectangle 83" width="11.833" height="0.642" transform="translate(0 1.284)" fill="#c9c9c9"/>
+        <rect id="Rectangle_84" data-name="Rectangle 84" width="11.833" height="0.642" transform="translate(0 2.568)" fill="#c9c9c9"/>
+      </g>
+    </g>
+  </g>
+</svg>
